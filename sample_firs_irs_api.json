@@ -1,0 +1,12 @@
+{
+  "invoiceId": "INV-FCT-2024-00789",
+  "companyId": "GAMCO-003",
+  "taxPeriod": "2024-Q2",
+  "taxType": "FCT",
+  "amountInvoiced": 75000.00,
+  "amountPaid": 75000.00,
+  "dateIssued": "2024-07-15",
+  "dateDue": "2024-08-15",
+  "paymentDate": "2024-08-10",
+  "currency": "NGN"
+}

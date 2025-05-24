@@ -1,0 +1,8 @@
+{
+  "paymentId": "BANKPAY-001-XYZ",
+  "companyId": "GAMCO-001",
+  "amountPaid": 50000.00,
+  "paymentDate": "2024-07-28T10:30:00Z",
+  "referenceNumber": "REF-STATE-INV-2024-001",
+  "currency": "NGN"
+}
